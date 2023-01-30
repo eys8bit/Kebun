@@ -1,0 +1,4 @@
+	Waktu Berkecambah	Waktu Panen	PenyemaianE		
+Sawi		5 hari	2 bulan	30-Jan-23		
+Timun		4 hari	1,5 bulan	30-Jan-23		
+Seledri	18 hari	13 bulan	30-Jan-23		
