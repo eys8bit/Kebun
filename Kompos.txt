@@ -1,6 +1,10 @@
 Kompos
 
-//---------------> Racikan
-1tutup botol em4
-1sendok makan gula
-1liter air
+//---------------> Racikan penyiraman kompos
+20 ml em4
+1 sendok makan gula pasir
+1L air
+
+//---------------> Siram Tanah
+-1L air
+-10 ml
